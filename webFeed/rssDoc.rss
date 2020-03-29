@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Sindicacion de Contenidos (RSS) - https://javierperezgarcia.github.io/AtomAndRSS/</title>
+        <atom:link href="https://javierperezgarcia.github.io/AtomAndRSS/" rel="self" type="application/rss+xml"/>
+        <description>Espacio dedicado a la Sindicacion de Contenidos</description>
+        <language>es-ES</language>
+        <image>
+            <title>Sindicacion de Contenidos (RSS) - https://javierperezgarcia.github.io/AtomAndRSS/</title>
+            <url>https://javierperezgarcia.github.io/AtomAndRSS/img/rssLogo.png</url>
+            <link https://javierperezgarcia.github.io/AtomAndRSS//>
+            <width>100</width>
+            <height>40</height>
+            <description>Logo RSS<description>
+        </image>
+        <item>
+            <title>Tiempo en S/C de Tenerife</title>
+            <link>https://www.tiempo.es/santa_cruz_de_tenerife-santa_cruz_de_tenerife-es0st0038.html</link>
+            <guid>https://www.tiempo.es/santa_cruz_de_tenerife-santa_cruz_de_tenerife-es0st0038.html</guid>
+            <description>Muestra información detallada sobre el tiempo en S/C de Tenerife a través de la web www.tiempo.es</link>
+        </item>
+        <item>
+            

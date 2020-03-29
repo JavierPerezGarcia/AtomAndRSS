@@ -11,19 +11,19 @@
             <link> https://javierperezgarcia.github.io/AtomAndRSS/</link>
             <width>100</width>
             <height>40</height>
-            <description>Logo RSS<description>
+            <description>Logo RSS</description>
         </image>
         <item>
             <title>Tiempo en S/C de Tenerife</title>
             <link>https://www.tiempo.es/santa_cruz_de_tenerife-santa_cruz_de_tenerife-es0st0038.html</link>
             <guid>https://www.tiempo.es/santa_cruz_de_tenerife-santa_cruz_de_tenerife-es0st0038.html</guid>
-            <description>Muestra información detallada sobre el tiempo en S/C de Tenerife a través de la web www.tiempo.es</link>
+            <description>Muestra información detallada sobre el tiempo en S/C de Tenerife a través de la web www.tiempo.es</description>
         </item>
         <item>
             <title>Página en Mantenimiento</title>
-            <link>https://javierperezgarcia.github.io/html/randomPage.html<link>
-            <guid>https://javierperezgarcia.github.io/html/randomPage.html<guid>
-            <description>Página de Prueba, hecha por mí que está en mantenimiento preventivo.</link>
+            <link>https://javierperezgarcia.github.io/html/randomPage.html</link>
+            <guid>https://javierperezgarcia.github.io/html/randomPage.html</guid>
+            <description>Página de Prueba, hecha por mí que está en mantenimiento preventivo.</description>
         </item>
         <item>
             <title>La VR a punto de despegar</title>
@@ -33,5 +33,5 @@
             Ocho años después de ver cómo el sueño noventero por excelencia se hacía realidad, ese miedo sigue ahí, pero empieza a ofrecer razones suficientes para
             mantener la calma.</description>
         </item>
-    </channel>o sea
+    </channel>
 </rss> 

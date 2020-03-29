@@ -62,3 +62,8 @@ footer a{
 footer a:hover{
     color: white;
 }
+
+.enlaces{
+    position: absolute;
+    right: 0;
+}

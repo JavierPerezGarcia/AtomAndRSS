@@ -3,6 +3,7 @@
     <channel>
         <title>Sindicacion de Contenidos (RSS) - https://javierperezgarcia.github.io/AtomAndRSS/</title>
         <atom:link href="https://javierperezgarcia.github.io/AtomAndRSS/webFeed/rssDoc.rss" rel="self" type="application/rss+xml"/>
+        <link>https://javierperezgarcia.github.io/AtomAndRSS/</link>
         <description>Espacio dedicado a la Sindicacion de Contenidos</description>
         <language>es-ES</language>
         <image>

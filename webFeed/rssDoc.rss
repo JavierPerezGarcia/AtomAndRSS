@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Sindicacion de Contenidos (RSS) - https://javierperezgarcia.github.io/AtomAndRSS/</title>
-        <atom:link href="https://javierperezgarcia.github.io/AtomAndRSS/" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://javierperezgarcia.github.io/AtomAndRSS/webFeed/rssDoc.rss" rel="self" type="application/rss+xml"/>
         <description>Espacio dedicado a la Sindicacion de Contenidos</description>
         <language>es-ES</language>
         <image>
             <title>Sindicacion de Contenidos (RSS) - https://javierperezgarcia.github.io/AtomAndRSS/</title>
             <url>https://javierperezgarcia.github.io/AtomAndRSS/img/rssLogo.png</url>
-            <link https://javierperezgarcia.github.io/AtomAndRSS//>
+            <link> https://javierperezgarcia.github.io/AtomAndRSS/</link>
             <width>100</width>
             <height>40</height>
             <description>Logo RSS<description>
@@ -33,5 +33,5 @@
             Ocho años después de ver cómo el sueño noventero por excelencia se hacía realidad, ese miedo sigue ahí, pero empieza a ofrecer razones suficientes para
             mantener la calma.</description>
         </item>
-    </channel>
+    </channel>o sea
 </rss> 
